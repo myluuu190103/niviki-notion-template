@@ -21,7 +21,7 @@ export default siteConfig({
   // github: 'transitive-bullshit',
   linkedin: 'khoanguyen08',
   
-  facebook: 'https://www.facebook.com/groups/nocodevietnam',
+  facebook: 'https://www.facebook.com/luuthanhmy9377',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   youtube: 'channel/UCI6GDuK41kD9T8icFp8d7Aw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
