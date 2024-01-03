@@ -16,10 +16,6 @@ export default siteConfig({
   // open graph metadata (optional)
   description: 'Lan toả tinh thần tự do tài chính đến với nhiều người hơn nữa! Tự do tài chính là bạn được quyền “thất nghiệp” nhưng vẫn có đủ tiền cho một cuộc sống thoải mái trong thời gian dài',
 
-  // social usernames (optional)
-  twitter: '',
-  // github: 'transitive-bullshit',
-  linkedin: '',
   
   facebook: 'https://www.facebook.com/luuthanhmy9377',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
