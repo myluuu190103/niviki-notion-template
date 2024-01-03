@@ -3,7 +3,7 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
   // rootNotionPageId: 'niviki-com-t-do-t-i-ch-nh-10f5e54221eb4b059bc5b5305da949ba',
-  rootNotionPageId: 'Landing-Page-Template-88e88b6155ed46dba48bba6c45669655',
+  rootNotionPageId: 'C-NG-NGH-M-I-9a3a396431924efba6d71995e0da5048',
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
